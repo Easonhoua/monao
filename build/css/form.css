@@ -1,0 +1,55 @@
+.interface{
+    position: relative;
+}
+
+.addleft{
+    display: inline-block;
+    width: 88px;
+    height: 37px;
+    border:1px solid rgba(153, 153, 153, 1);
+    background-color: rgba(238, 238, 238, 1);
+    text-align: center;
+    line-height: 37px;
+    box-sizing: border-box;
+}
+.inpspan{
+    display: inline-block;
+    width: 194px;
+    height: 37px;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 13px;
+    text-decoration: none;
+    color: #999999;
+    text-align: left;
+    box-sizing: border-box;
+    position: absolute;
+    left: 88px;
+    top: 0;
+}
+
+.infbox2{
+    position: absolute;
+    left: 360px;
+    top: 0;
+}
+.infbox3{
+    position: absolute;
+    left: 700px;
+    top: 0;
+}
+.inpspan2{
+    display: inline-block;
+    width: 160px;
+    height: 37px;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 13px;
+    text-decoration: none;
+    color: #000;
+    text-align: left;
+    box-sizing: border-box;
+    position: absolute;
+    left: 88px;
+    top: 0;
+}
